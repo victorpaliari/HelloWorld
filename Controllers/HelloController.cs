@@ -13,7 +13,12 @@ namespace helloworld.Controllers
             return "Hello Turma . NET 03!";
         }
 
-<<<<<<< HEAD
+        [HttpGet("/meunome")]
+        public string MeuNome()
+        {
+            return "Victor Paliari";
+
+        }
         [HttpGet("/bsms")]
         public string Bsm()
         {
@@ -31,18 +36,13 @@ namespace helloworld.Controllers
         [HttpGet("/objetivos")]
         public string Objetivos()
         {
-            return "Objetivos dessa semana: " + 
+            return "Objetivos dessa semana: " +
                 "\n1: Realizar meu primeiro Pitch Pessoal" +
                 "\n2: Introduzir conhecimentos de ASP.NET" +
                 "\n3: Aplicar para mais algumas vagas de desenvolvedor Jr";
 
 
-=======
-        [HttpGet("/meunome")]
-        public string MeuNome()
-        {
-            return "Victor Paliari";
->>>>>>> d7802ca0b0e053867a70438820459ee32c8ee4bb
         }
+
     }
 }
