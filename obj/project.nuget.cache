@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "LjSQsCePa3phm7HUpioy2fB2qjw0UFnQ9VsYzlyfwdhticGXci05FQjvrASBJWmUDKw6GYosvfjZ75zC6Qz+sw==",
   "success": true,
   "projectFilePath": "C:\\Users\\victo\\OneDrive\\Área de Trabalho\\aspnet\\HelloWorld\\helloworld.csproj",
+=======
+  "dgSpecHash": "/fUVYyqqOOkcCyzp0DXuwoLFuKyqmylwtUQelgTMdyEvnosWFiKELLlJ/iCc5ncT3rdWoM8gG77ItJZOTmxzng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pichau\\Desktop\\aspnet\\helloworld\\helloworld.csproj",
+>>>>>>> d7802ca0b0e053867a70438820459ee32c8ee4bb
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -13,6 +13,7 @@ namespace helloworld.Controllers
             return "Hello Turma . NET 03!";
         }
 
+<<<<<<< HEAD
         [HttpGet("/bsms")]
         public string Bsm()
         {
@@ -36,6 +37,12 @@ namespace helloworld.Controllers
                 "\n3: Aplicar para mais algumas vagas de desenvolvedor Jr";
 
 
+=======
+        [HttpGet("/meunome")]
+        public string MeuNome()
+        {
+            return "Victor Paliari";
+>>>>>>> d7802ca0b0e053867a70438820459ee32c8ee4bb
         }
     }
 }

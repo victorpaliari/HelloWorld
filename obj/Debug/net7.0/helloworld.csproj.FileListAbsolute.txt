@@ -24,6 +24,7 @@ C:\Users\Pichau\Desktop\aspnet\helloworld\obj\Debug\net7.0\refint\helloworld.dll
 C:\Users\Pichau\Desktop\aspnet\helloworld\obj\Debug\net7.0\helloworld.pdb
 C:\Users\Pichau\Desktop\aspnet\helloworld\obj\Debug\net7.0\helloworld.genruntimeconfig.cache
 C:\Users\Pichau\Desktop\aspnet\helloworld\obj\Debug\net7.0\ref\helloworld.dll
+<<<<<<< HEAD
 C:\Users\victo\OneDrive\Área de Trabalho\aspnet\HelloWorld\bin\Debug\net7.0\appsettings.Development.json
 C:\Users\victo\OneDrive\Área de Trabalho\aspnet\HelloWorld\bin\Debug\net7.0\appsettings.json
 C:\Users\victo\OneDrive\Área de Trabalho\aspnet\HelloWorld\bin\Debug\net7.0\helloworld.exe
@@ -49,3 +50,5 @@ C:\Users\victo\OneDrive\Área de Trabalho\aspnet\HelloWorld\obj\Debug\net7.0\ref
 C:\Users\victo\OneDrive\Área de Trabalho\aspnet\HelloWorld\obj\Debug\net7.0\helloworld.pdb
 C:\Users\victo\OneDrive\Área de Trabalho\aspnet\HelloWorld\obj\Debug\net7.0\helloworld.genruntimeconfig.cache
 C:\Users\victo\OneDrive\Área de Trabalho\aspnet\HelloWorld\obj\Debug\net7.0\ref\helloworld.dll
+=======
+>>>>>>> d7802ca0b0e053867a70438820459ee32c8ee4bb
